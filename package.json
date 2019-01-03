@@ -12,12 +12,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riversun/es6hello.git"
+    "url": "git+https://github.com/poteto-akira/es6hello_prac"
   },
   "bugs": {
-    "url": "https://github.com/riversun/es6hello/issues"
+    "url": "https://github.com/poteto-akira/es6hello_prac/issues"
   },
-  "homepage": "https://github.com/riversun/es6hello#readme",
+  "homepage": "https://github.com/poteto-akira/es6hello_prac#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
